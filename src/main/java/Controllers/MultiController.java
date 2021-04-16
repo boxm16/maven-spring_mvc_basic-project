@@ -51,7 +51,7 @@ public class MultiController {
         return workDir;
     }
 
-    public String loadExcel() {
+    private String loadExcel() {
         String data = "";
         try {
 
