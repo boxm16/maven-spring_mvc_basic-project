@@ -10,6 +10,8 @@
 
     <body>
         <p>Hello! This is Maven + Spring Web MVC basic project.</p>
-
+      
+        <hr>
+        <a href="malti.htm">malti</a>
     </body>
 </html>
